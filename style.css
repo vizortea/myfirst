@@ -1,4 +1,20 @@
-body{
+body {
     background-color: #4158D0;
-background-image: linear-gradient(132deg, #4158D0 0%, #C850C0 46%, #FFCC70 100%);
+    background-image: linear-gradient(132deg, #4158D0 0%, #C850C0 46%, #FFCC70 100%);
+}
+
+header {
+    display: flex;
+    width: 100%;
+}
+
+ul {
+    display: flex;
+    list-style: none;
+    color: azure;
+    font-size: 40px;
+    text-transform: uppercase;
+    justify-content: center;
+    align-items: center;
+    gap: 28px;
 }
