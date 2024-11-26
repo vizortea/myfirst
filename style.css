@@ -18,3 +18,20 @@ ul {
     align-items: center;
     gap: 28px;
 }
+
+section{
+    width: 100;
+    padding-left: 8%;
+
+}
+.secao {
+    padding-top: 8%;
+    padding-right: 2%;
+
+}
+.moldura-videos {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    
+}
